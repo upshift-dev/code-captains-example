@@ -1,0 +1,7 @@
+version: 1
+policies:
+  - include:
+      - sensitive-file.ts
+    exclude: []
+    captains:
+      - "@upshift-dev/code-admirals"
