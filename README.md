@@ -17,3 +17,7 @@ Other PRs are referenced to show how the PR responds to checks at that point in 
 - [`step-1`](https://github.com/upshift-dev/code-captains-example/pull/1): Initial project setup with CODEOWNERS
 - [`step-2`](https://github.com/upshift-dev/code-captains-example/pull/3): Introduce code captains files to the repo
 - [`step-3`](https://github.com/upshift-dev/code-captains-example/pull/5): Remove CODEOWNERS
+
+## Video demo
+
+![](/Code%20captains%20example.mp4)
