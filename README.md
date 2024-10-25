@@ -20,4 +20,5 @@ Other PRs are referenced to show how the PR responds to checks at that point in 
 
 ## Video demo
 
-![](/Code%20captains%20example.mp4)
+https://github.com/user-attachments/assets/a40bbbc7-4cd7-4965-9c31-b6f9bcf8d79b
+
