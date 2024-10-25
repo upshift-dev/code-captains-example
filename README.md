@@ -20,4 +20,4 @@ Other PRs are referenced to show how the PR responds to checks at that point in 
 
 ## Video demo
 
-![](/code-captains-example.mp4)
+![](/code-captains-example.mov)
